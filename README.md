@@ -1,6 +1,11 @@
 # EPL--2023-24--Season-_Analysis
 The primary goal of the analysis is to uncover key trends and insights about the 2023-24 EPL season.
 
+![Dashboard Image](https://raw.githubusercontent.com/vip-99/EPL--2023-24--Season-_Analysis/main/download.jpg)
+
+
+
+
 ## English Premier League (EPL) 2023-24 Season Analysis---Power-BI
 This is the EPL 2023-24 season analysis , Here we have used Power BI to create visual and understand the trend to make data driven decisions
 
